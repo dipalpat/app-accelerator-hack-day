@@ -10,12 +10,12 @@
 
 # Agenda
 ## Getting Started - (1 hour)
-* Intro
-* Review goals and accelerators to be built and outcomes for accelerators
+* Intros
+* Review goals, accelerators to be built, and outcomes for accelerators
 * Walk through of accelerator sample yaml files - 30 mins
   * [Example of UI options](InputOptions.md)  
   * [Open Rewrite Recipes](openRewrite.md)
-  * [YTT](ytt.mld)
+  * [YTT](ytt.md)
   * [Mechanics of chains/loops/expressions/merge etc](mechanicsOfTransform.md) 
 ## Hack Session 1 - (2 hours)
 ## Lunch - (30 mins)
