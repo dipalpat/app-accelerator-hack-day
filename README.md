@@ -13,10 +13,10 @@
 * Intro
 * Review goals and accelerators to be built and outcomes for accelerators
 * Walk through of accelerator sample yaml files - 30 mins
-  * Example of UI options  
-  * Open Rewrite Recipes
-  * YTT
-  * Mechanics of chains/loops/expressions/merge etc 
+  * [Example of UI options](InputOptions.md)  
+  * [Open Rewrite Recipes](openRewrite.md)
+  * [YTT](ytt.mld)
+  * [Mechanics of chains/loops/expressions/merge etc](mechanicsOfTransform.md) 
 ## Hack Session 1 - (2 hours)
 ## Lunch - (30 mins)
 ## Hack Session 2 - (2 hours)
