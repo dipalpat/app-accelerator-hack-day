@@ -18,6 +18,11 @@
   * [YTT](ytt.md)
   * [Mechanics of chains/loops/expressions/merge etc](mechanicsOfTransform.md) 
 ## Hack Session 1 - (2 hours)
+### Collecting User Input (30 Mins)
+* Slides
+* Hands-On Lab
+### Customer specific Accelerator (1.5 hour)
+* Make your own accelerators
 ## Lunch - (30 mins)
 ## Hack Session 2 - (2 hours)
 ## Attendee Demos - (1 hour)
