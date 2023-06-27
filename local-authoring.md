@@ -4,7 +4,7 @@ For local authoring and faster feedback Tanzu CLI and Accelerator Plugin can be 
 * [Publish Accelerator using Azure CLI](https://learn.microsoft.com/en-us/azure/spring-apps/how-to-use-accelerator?tabs=Azure-CLI#manage-your-own-accelerators)
 * [Publish Accelerator using Azure Portal](https://learn.microsoft.com/en-us/azure/spring-apps/how-to-use-accelerator?tabs=Portal#manage-your-own-accelerators)
 
-For local authoring and testing, use the tanzu accelerator generate-from-local command.
+For local authoring and testing, use the ```tanzu accelerator generate-from-local``` command.
 
 ```tanzu acc generate-from-local --accelerator-path test-gen-local=./ --options-file=./options.json --server-url=https://ASAE_DEV_PORTAL_URL -o=./test --force```
 
