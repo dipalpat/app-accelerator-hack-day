@@ -21,9 +21,10 @@
 ### Collecting User Input (30 Mins)
 * Slides
 * Hands-On Lab
-### Customer specific Accelerator (1.5 hour)
-* Make your own accelerators
+* Demos
+### Customer-specific Accelerator (1.5 hours)
+* Facilitated design session to define what custom accelerators to build in the lab (30 mins)
+* Make your own accelerators (1 hour)
 ## Lunch - (30 mins)
 ## Hack Session 2 - (2 hours)
-## Attendee Demos - (1 hour)
 ## Open Discussion - (1 hour)
