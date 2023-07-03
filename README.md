@@ -24,19 +24,21 @@
 * Output is a written document - a set of collections of accelerators
 #### Implement Customer-specific Accelerator from the facilitated design session (1 hour)
 ### Lunch - (0.5 hour)
-### Hack Session 2 - Generate project zip file (2 hour)
+### Hack Session 2 - Generate project zip file (2.5 hour)
 #### Walkthrough accelerator engine transforms architecture (1 hour)
 * We will cover openrewrite, YTT, and built-in transforms
 * Hands-on Lab -  Try out the gallery of various transforms
 #### Implement your customer-specific transforms (1.5 hour)
 * Configure transforms
 * Configure CI for validation of accelerators (Optional)
-## Wrapup
-### Demos of what was built 5 min/person (2 hour)
-### Facilitated design session, refine the list of accelerators to implement (0.5 hour)
+### Recap, Discussion, and Roadmap (2.5 hour)
+#### Demos of what was built 5 min/person (0.5 hour)
+#### Facilitated design session, refine the list of accelerators to implement (0.5 hour)
 * Prioritized backlog of accelerators to build
-### Discussion of getting accelerators into production (0.5 hour)
+#### Discussion of getting accelerators into production (0.5 hour)
 * Scaling the deployment of accelerators
 * Deploying OCI vs Git based accelerators
 * Validating accelerators at scale
-### Open Discussion/Wrapup - (1 hour)
+#### Accelerator Roadmap - (0.75 hour)
+* Discussion with App Acceleror PMs
+### Next Steps (0.25 hour)
