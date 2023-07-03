@@ -9,21 +9,16 @@
 * Available resources - cheat sheet etc	
 
 # Agenda
-## Getting Started - (1 hour)
+## Getting Started - (0.5 hours)
 * Intros
-* Review goals, accelerators to be built, and outcomes for accelerators
-* Walk through of accelerator sample yaml files - 30 mins
-  * [Example of UI options](InputOptions.md)  
-  * [Open Rewrite Recipes](openRewrite.md)
-  * [YTT](ytt.md)
-  * [Mechanics of chains/loops/expressions/merge etc](mechanicsOfTransform.md) 
-## Hack Session 1 - (2 hours)
-### Collecting User Input (30 Mins)
-* Slides
-* Hands-On Lab
-* Demos
+* Review the goals and outcomes for the hack day
+* Application accelerator technical architecture 
+* Walk through sample application accelerator yaml
+## Hack Session 1 - Collecting input from developers (2 hours)
+### Collecting User Input (0.5 hours)
+* Hands-On Lab - Try out the gallery of input options sample accelerator
+### Facilitated design session to define what custom accelerators to build in the lab (30 mins)
 ### Customer-specific Accelerator (1.5 hours)
-* Facilitated design session to define what custom accelerators to build in the lab (30 mins)
 * Make your own accelerators (1 hour)
 ## Lunch - (30 mins)
 ## Hack Session 2 - (2 hours)
