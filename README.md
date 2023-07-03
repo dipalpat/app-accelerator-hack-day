@@ -31,10 +31,11 @@
 #### Implement your customer-specific transforms (1.5 hour)
 * Configure transforms
 * Configure CI for validation of accelerators (Optional)
-### Demos of what was built 5 min/person (0.5 hour)
+## Wrapup
+### Demos of what was built 5 min/person (2 hour)
 ### Facilitated design session, refine the list of accelerators to implement (0.5 hour)
 * Prioritized backlog of accelerators to build
-### Discussion of getting accelerators into production
+### Discussion of getting accelerators into production (0.5 hour)
 * Scaling the deployment of accelerators
 * Deploying OCI vs Git based accelerators
 * Validating accelerators at scale
