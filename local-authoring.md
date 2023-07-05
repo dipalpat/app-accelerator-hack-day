@@ -19,4 +19,32 @@ For local authoring and testing, use the ```tanzu accelerator generate-from-loca
       --options string                      options JSON string (default "{}")
       --options-file string                 path to file containing options JSON string
   -o, --output-dir string                   the directory that the project will be created in (defaults to the project name)
-      --server-url string                   the URL for the Application Accelerator server```
+      --server-url string                   the URL for the Application Accelerator server
+```
+
+## Installing VS Code Tanzu Extension
+Use the following steps to install the Application Accelerator Visual Studio extension:
+
+1. Sign in to VMware Tanzu Network and download the “Tanzu App Accelerator Extension for Visual Studio Code” file from the product page for VMware Tanzu Application Platform.
+
+2. Open VS Code.
+
+* **Option 1:**
+
+1. From the Command Palette (cmd + shift + P), run “Extensions: Install from VSIX…”.
+
+2. Select the extension file **tanzu-app-accelerator-<EXTENSION_VERSION>.vsix.**
+
+![Tux, the Linux mascot](https://docs.vmware.com/en/VMware-Tanzu-Application-Platform/1.5/tap/Images/images-vscode-install1v2.png "sad")
+
+The Command palette is open and Extensions: Install from VSIX appears in the drop-down menu.
+
+Option 2:
+
+Select the Extensions tab: Shows the extensions tab icon.
+
+Select Install from VSIX… from the overflow menu.
+
+The VS Code interface extensions page overflow menu is open with Install from VSIX... highlighted.
+
+
