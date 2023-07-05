@@ -22,7 +22,7 @@ For local authoring and testing, use the ```tanzu accelerator generate-from-loca
       --server-url string                   the URL for the Application Accelerator server
 ```
 
-## Installing VS Code Tanzu Extension
+## Installing Application Accelerator Visual Studio Code extension
 Use the following steps to install the Application Accelerator Visual Studio extension:
 
 1. Sign in to VMware Tanzu Network and download the “Tanzu App Accelerator Extension for Visual Studio Code” file from the product page for [VMware Tanzu Application Platform](https://network.tanzu.vmware.com/products/tanzu-application-platform).
