@@ -1,8 +1,5 @@
 # App Accelerator Hack Day
 * todo - description
-## Open Questions
-* Successful outcomes
-* Number of attendees
 
 ## Prerequisites (to be reviewed before the hack day)	
 * Review hackathon git repo
