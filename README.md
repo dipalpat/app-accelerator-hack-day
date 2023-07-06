@@ -5,10 +5,9 @@
 * Number of attendees
 
 ## Prerequisites (to be reviewed before the hack day)	
-* Share a list of Java accelerators to be built on the hack day
 * Review hackathon git repo
 * [Local authoring environment setup](local-authoring.md)
-* Available resources - cheat sheet etc	
+* [VMware Sample Accelerators Repo](https://github.com/vmware-tanzu/application-accelerator-samples)
 
 ## Agenda
 ### Getting Started - (0.5 hour)
