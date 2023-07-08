@@ -1,10 +1,10 @@
 # App Accelerator Hack Day
-* todo - description
 
-## Prerequisites (to be reviewed before the hack day)	
-* Review hackathon git repo
+## Resources	
+* [App Accelerator Hands-on Labs](https://github.com/dipalpat/app-accelerator-workshop)
 * [Local authoring environment setup](local-authoring.md)
 * [VMware Sample Accelerators Repo](https://github.com/vmware-tanzu/application-accelerator-samples)
+  
 
 ## Agenda
 ### Getting Started - (0.5 hour)
