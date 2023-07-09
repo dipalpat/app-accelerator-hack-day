@@ -42,5 +42,7 @@ Use the following steps to install the Application Accelerator Visual Studio ext
 
 2. Select **Install from VSIX…** from the overflow menu.
 
-
+## Install Local Accelerator Utility for local UI rendering
+[Follow instructions](https://github.com/asaikali/local-accelerator)
+* Requires VS Code Extension installed to have the local rendering working
 
