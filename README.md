@@ -1,13 +1,5 @@
 # App Accelerator Hack Day
 
-## Resources	
-* [App Accelerator Hands-on Labs](https://github.com/dipalpat/app-accelerator-workshop)
-* [Local authoring environment setup](local-authoring.md)
-* [VMware Sample Accelerators Repo](https://github.com/vmware-tanzu/application-accelerator-samples)
-* [Intro to Transforms](https://docs.vmware.com/en/VMware-Tanzu-Application-Platform/1.5/tap/application-accelerator-creating-accelerators-transform-intro.html)
-* [Transforms Reference](https://docs.vmware.com/en/VMware-Tanzu-Application-Platform/1.5/tap/application-accelerator-creating-accelerators-transforms-index.html)
-  
-
 ## Agenda
 ### Getting Started - (0.5 hour)
 * Intros
@@ -40,3 +32,11 @@
 #### Accelerator Roadmap - (0.75 hour)
 * Discussion with App Acceleror PMs
 ### Next Steps (0.25 hour)
+
+## Resources	
+* [App Accelerator Hands-on Labs](https://github.com/dipalpat/app-accelerator-workshop)
+* [Local authoring environment setup](local-authoring.md)
+* [VMware Sample Accelerators Repo](https://github.com/vmware-tanzu/application-accelerator-samples)
+* [Intro to Transforms](https://docs.vmware.com/en/VMware-Tanzu-Application-Platform/1.5/tap/application-accelerator-creating-accelerators-transform-intro.html)
+* [Transforms Reference](https://docs.vmware.com/en/VMware-Tanzu-Application-Platform/1.5/tap/application-accelerator-creating-accelerators-transforms-index.html)
+  
