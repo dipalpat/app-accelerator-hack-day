@@ -9,7 +9,7 @@
 ### Hack Session 1 - Collecting input from developers (2 hours)
 #### Collecting User Input (0.5 hour)
 * Set up the local development environment
-* Hands-On Lab - [Try out the gallery of input options sample accelerator]([https://github.com/dipalpat/demo-input-types](https://github.com/dipalpat/app-accelerator-workshop))
+* Hands-On Lab - [Try out the gallery of input options sample accelerator](https://github.com/dipalpat/app-accelerator-workshop)
 #### Facilitated design session to define what custom accelerators to build on the hack day (0.5 hour)
 * Output is a written document - a set of collections of accelerators
 #### Implement Customer-specific Accelerator from the facilitated design session (1 hour)
