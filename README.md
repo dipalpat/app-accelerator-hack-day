@@ -8,7 +8,7 @@
 * Walk through sample application accelerator yaml
 ### Hack Session 1 - Collecting input from developers (2 hours)
 #### Collecting User Input (0.5 hour)
-* Set up the local development environment
+* [Set up the local development environment](local-authoring.md)
 * Hands-On Lab - [Try out the gallery of input options sample accelerator](https://github.com/dipalpat/app-accelerator-workshop)
 #### Facilitated design session to define what custom accelerators to build on the hack day (0.5 hour)
 * Output is a written document - a set of collections of accelerators
